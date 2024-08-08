@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/ba1d36b5-8d83-433b-8f25-8c1b77a558a2/resourceGroups/time-sheet/providers/Microsoft.Web/sites/angular-timesheet",
+    "appService.deploySubpath": "dist"
+}
